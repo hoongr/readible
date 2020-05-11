@@ -1,0 +1,30 @@
+.preview {
+  width: 350px;
+  margin-bottom: 25px;
+}
+
+.row-container {
+  margin-bottom: 50px;
+}
+
+iframe {
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+  text-align: center
+}
+
+.title {
+  text-align: center;
+}
+
+.read-btn {
+  margin: auto;
+  margin: 15px 0;
+
+}
+
+.center {
+  margin: auto;
+  text-align: center;
+}
