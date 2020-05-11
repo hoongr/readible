@@ -3,6 +3,7 @@
 
 button {
   outline: none !important;
+  background-color: white;
 }
 
 .header-container {
